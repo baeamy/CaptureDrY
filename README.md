@@ -1,4 +1,4 @@
-# CaptureDrY
+# Capture Dr. Y
 Pac-Man-inspired Game on TM4C Microcontroller Using Embedded C.
 
 How to run Capture Dr. Y:
