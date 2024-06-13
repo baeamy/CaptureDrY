@@ -1,5 +1,5 @@
 # Capture Dr. Y
-Pac-Man-inspired Game on TM4C Microcontroller Using Embedded C.
+Pac-Man-inspired game on TM4C Microcontroller using Embedded C.
 
 How to run Capture Dr. Y:
 To run this game, you must obtain the Keil μVision Commercial Use License. This game is designed to be played on the ST7735R LCD.
